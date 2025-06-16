@@ -1,7 +1,7 @@
 <h1 align="center">👾 Luan Gonzaga</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=%2300FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Red+Team+%7C+Pentest+%7C+AD+Exploitation;Reverse+Engineering+%7C+Malware+Analysis;Offensive+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=%2300FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Red+Team+%7C+Pentest+%7C+AD+Exploitation;Reverse+Engineering%0A%7C%0AMalware+Analysis;Offensive+Security+Researcher" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧠 **Sobre mim**
 - 💻 Offensive Security | AD Exploitation | Web Pentest | Malware Analysis
 - 🏹 Apaixonado por quebrar, entender e explorar sistemas
-- 🏴‍☠️ Homelab com ambientes corporativos simulando AD, redes e serviços vulneráveis
+- 🏴‍☠️ Adoro fazer Homelabs para praticar e entender melhor o que estou fazendo
 - 🚩 CTF Player e entusiasta de segurança ofensiva
 
 ---
