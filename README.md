@@ -78,7 +78,7 @@
 
 ## 🌐 **Idiomas**
 - 🇧🇷 **Português:** Nativo  
-- 🇬🇧 **Inglês:** Avançado  
+- 🇺🇸 **Inglês:** Avançado  
 - 🇪🇸 **Espanhol:** Intermediário  
 - 🇫🇷 **Francês:** Intermediário  
 - 🇷🇺 **Russo:** Iniciante  
