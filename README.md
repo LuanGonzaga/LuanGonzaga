@@ -1,7 +1,7 @@
 <h1 align="center">👾 Luan Gonzaga</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Red+Team+%7C+Pentest+%7C+AD+Exploitation;Reverse+Engineering+%7C+Malware+Analysis;Offensive+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=%2300FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Red+Team+%7C+Pentest+%7C+AD+Exploitation;Reverse+Engineering+%7C+Malware+Analysis;Offensive+Security+Researcher" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,33 +50,9 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/pwnedby" target="_blank" rel="noopener noreferrer">
-<img src="https://tryhackme-badges.s3.amazonaws.com/pwnedby.png" alt="Your Image Badge" />
-  </a>
-
-  <a href="https://app.hackthebox.com/profile/2089161" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.hackthebox.com/badge/image/2089161" alt="Hack The Box Badge"
+<img src="https://tryhackme-badges.s3.amazonaws.com/pwnedby.png?update=3" alt="Your Image Badge" />
   </a>
 </p>
-
----
-
-### 🧪 Labs Concluídos (TryHackMe e HTB)
-
-- [x] TryHackMe - Pre Security Path ✅  
-- [x] TryHackMe - Junior Penetration Tester Path ✅  
-- [ ] TryHackMe - Offensive Pentesting Path 🔜  
-- [x] HTB Starting Point - Tier 0 ✅  
-- [x] HTB Starting Point - Tier 1 ✅  
-- [ ] HTB Pro Labs (em andamento)  
-
----
-
-### 🏅 Rankings
-
-| Plataforma    | Rank Atual | Conquistas       |
-| ------------- | ---------- | ---------------- |
-| TryHackMe     | #Global 🥉 | 🧠 30+ labs     |
-| Hack The Box  | pwnedby    | 🛡️ Tier 1        |
 
 ---
 
