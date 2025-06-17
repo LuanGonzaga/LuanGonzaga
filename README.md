@@ -53,6 +53,9 @@
   <a href="https://www.credly.com/badges/208d11c2-3c5d-4f9f-8f9c-73a76bc9c0f1/linked_in_profile"> 
     <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Junior Cybersecurity Analyst Cisco"> 
   </a> 
+  <a href="https://www.credly.com/earner/earned/badge/26a60a1d-4c84-4a38-8bdf-e4730bf6da5a"> 
+    <img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Introduction to Networks Cisco"> 
+  </a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IF08RGZECH.png"> 
     <img src="https://img.shields.io/badge/Junior%20Penetration%20Tester%20Path-TryHackMe-E60000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Junior Penetration Tester TryHackMe"> 
   </a> 
@@ -79,6 +82,7 @@
   </a> 
 </p>
 
+
 ---
 
 ## 👾 CTF Platforms
@@ -92,14 +96,15 @@
 ---
 
 ## 🏴‍☠️ **Recent Labs Completed**
-| Platform         | Lab/Challenge                  | Status          |
-|------------------|-------------------------------|-----------------|
-| Coming soon      | Coming soon                   | ✅ Coming soon  |
-| Coming soon      | Coming soon                   | ✅ Coming soon  |
-| Coming soon      | Coming soon                   | 🔄 Coming soon  |
-| Coming soon      | Coming soon                   | ✅ Coming soon  |
-| Coming soon      | Coming soon                   | 🔄 Coming soon  |
-| Coming soon      | Coming soon                   | 🔄 Coming soon  |
+
+| Platform         | Lab/Challenge                                                                           | Status            |
+|------------------|-----------------------------------------------------------------------------------------|-------------------|
+| Hack The Box     |  [Puppy (Windows - Medium)](https://www.hackthebox.com/achievement/machine/2089161/661) | ✅ Completed     |
+| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
+| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
+| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
+| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
+| Coming soon      | Coming soon                                                                             | 🔄 Coming soon   |
 
 ---
 
