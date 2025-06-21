@@ -111,7 +111,6 @@
 ## 📅 **Upcoming Exams**
 | Exam                                | Date         | Status      |
 |------------------------------------|--------------|-------------|
-| Certified CyberSecurity (ICS2)     | 06/21/2025   | 📅 Scheduled |
 | CRTA (CyberWarfare)                | 06/23/2025   | 📅 Scheduled |
 
 ---
